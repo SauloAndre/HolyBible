@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(26, 24, 24);
+}
+h1{
+    color: rgb(121, 120, 120);
+}
+.front{
+    width: 700px;
+    height: 600px;
+    opacity: 50%;
+    border-radius: 30px;
+}
+.first{
+    text-align: center;
+    margin: 0 auto 600px;
+    padding: 170px 30px;
+    flex-wrap: wrap;
+}
+.third{
+    
+}
+.second{
+    text-align: center;
+}
+#bto{
+    padding: 3px;
+    font-size: 30px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(39, 37, 34);
+    opacity: 80%;
+    position: relative;
+    top: -315px;
+}
