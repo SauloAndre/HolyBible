@@ -20,9 +20,6 @@ h1{
     padding: 170px 30px;
     flex-wrap: wrap;
 }
-.third{
-    
-}
 .second{
     text-align: center;
 }
@@ -35,4 +32,13 @@ h1{
     opacity: 80%;
     position: relative;
     top: -315px;
+}
+.mix{
+    opacity: 50%;
+    border-radius: 20px;
+    width: 40%;
+}
+#other{
+    font-size: 40px;
+    
 }
